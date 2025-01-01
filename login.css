@@ -1,0 +1,23 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family: iran_sans_md;
+    src: url(fonts/IRANSansWeb/woff2/IRANSansWeb_Medium.woff2);
+}
+body{
+    font-family: iran_sans_md;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.myForm {
+    height: 30rem;
+}
+
+.formWrapper{
+    margin-top: 5rem;
+}
+
