@@ -37,10 +37,10 @@ Before installing the application, ensure you have the following installed on yo
 
 ### Steps to Install
 
-1. **Clone the Repository**
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/foodReservation.git
    cd foodReservation #(Make sure the project is located where the apache2 projects have been located.)
-2. **Run the project**
+2. **Run the project:**
    Start the apache2 and the project is available on your localhost.
 
